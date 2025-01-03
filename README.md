@@ -1,4 +1,4 @@
-# README for Sales Data Analysis
+# README for Data Analysis Excel Project
 
 ## Overview
 This repository contains two key Excel files providing comprehensive insights into sales performance and customer behavior. The data is analyzed and summarized to help businesses understand trends, profitability, and customer demographics.
